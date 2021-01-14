@@ -32,7 +32,8 @@
             "roomId": 203
         }
     ],
-    "system.fps": 24,
+    "animation.fps": 24,
+    "limits.fps": true,
     "system.dispatcher.log": false,
     "system.currency.types": [
         -1,
@@ -296,6 +297,8 @@
         "%images.url%/additions/number_3.png",
         "%images.url%/additions/number_4.png",
         "%images.url%/additions/number_5.png",
-        "%images.url%/loading_icon.png"
+        "%images.url%/loading_icon.png",
+        "%images.url%/clear_icon.png",
+        "%images.url%/big_arrow.png"
     ]
 }
