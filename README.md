@@ -1,1 +1,1 @@
-#default-assets
+duplicate and rename configuration.json.ex to configuration.json
